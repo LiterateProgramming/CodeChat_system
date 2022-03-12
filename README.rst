@@ -14,5 +14,5 @@ In addition to native support for Markdown and reStructuredText, the CodeChat Sy
 -   use `Sphinx <https://www.sphinx-doc.org/>`_ to build project documentation;
 -   call `Runestone <https://runestone.academy/>`_ or `PreTeXt <https://pretextbook.org/>`_ to create interactive textbooks;
 -   employ `Doxygen <https://www.doxygen.nl/>`_ to generate documentation from source code;
-
+- I added a line to the readme.
 ... and much more.
